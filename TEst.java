@@ -6,6 +6,7 @@ import sum.werkzeuge.*;
 /**
  * @author
  * @version
+ * Leon stinkt hart nach Maggi
  */
 public class SuMAnwendung extends EBAnwendung
 {
